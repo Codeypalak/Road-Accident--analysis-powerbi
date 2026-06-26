@@ -10,7 +10,7 @@ Power BI dashboard analyzing 144K road accidents with 196K casualties.
 - **By Vehicle**: Bus 17.9K, Bike 15.6K, Agriculture 399
 
 ### **Dashboard Preview:**
-![Dashboard](road-accident-dashboard.png)
+![Dashboard](dashboard.png)
 
 ### **Tools Used:**
 Power BI, Data Visualization, Data Analysis
